@@ -1,16 +1,6 @@
 # ocrapp
 
-A new Flutter project.
+OCR App with flutter. 
+Youtube video : https://youtu.be/qZRlhN3kPV4
+Medium post : https://medium.com/@nsivaramdav/create-a-image-to-text-recognition-app-with-flutter-d135b682ba4d?source=friends_link&sk=7f6895408d124fcc6f7650da5fbe840c
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
